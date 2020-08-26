@@ -27,5 +27,7 @@ TODO:
 **References**
 
 [Uniswap Token Lists](https://github.com/Uniswap/token-lists#authoring-token-lists)
+
 [Token Lists Community](https://community.tokenlists.org/)
+
 [IPFS pinner](pinata.cloud)
