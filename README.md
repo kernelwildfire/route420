@@ -1,5 +1,5 @@
 # route420
-route420.eth - $BASED Seed Exchange and Gas Station
+route420.eth - $BASED Seed Exchange and Gas Station (sBASED<->ETH)
 
 **Market Pair Uniswap Info**
 https://uniswap.info/pair/0x9614347195fbd4cbf64f8a905ba24f2e4aab0818
